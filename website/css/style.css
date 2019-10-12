@@ -5565,7 +5565,7 @@ h1, h2, h3, h4, h5, h6 {
 
 /* line 10, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_breadcrumb.scss */
 .breadcrumb .breadcrumb_iner {
-  height: 475px;
+  height: 200px;
   width: 100%;
   display: table;
 }
@@ -5579,8 +5579,9 @@ h1, h2, h3, h4, h5, h6 {
 /* line 19, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_breadcrumb.scss */
 .breadcrumb .breadcrumb_iner .breadcrumb_iner_item h2 {
   color: #fff;
-  font-size: 100px;
-  font-weight: 500;
+  font-size: 75px;
+  font-weight: 400;
+  margin-top: 50px;
   margin-bottom: 10px;
   text-transform: capitalize;
 }
@@ -5609,7 +5610,7 @@ h1, h2, h3, h4, h5, h6 {
 @media only screen and (min-width: 992px) and (max-width: 1200px) {
   /* line 19, ../../01 cl html template/03_jun 2019/184_SAAS_template/sass/_breadcrumb.scss */
   .breadcrumb .breadcrumb_iner .breadcrumb_iner_item h2 {
-    font-size: 50px;
+    font-size: 40px;
   }
 }
 
