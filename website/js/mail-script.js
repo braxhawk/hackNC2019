@@ -1,4 +1,4 @@
-    // -------   Mail Send ajax
+    // -------   Mail Send ajax for contact
 
      $(document).ready(function() {
         var form = $('#myForm'); // contact form
